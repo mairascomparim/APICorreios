@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Pedidos";
+    List<Pedido> ListaPedidos = ViewBag.Pedidos;
+    Cliente cliente = ViewBag.Cliente;
+}
+
+<h1 class="display-4">@ViewData["Title"] - @cliente.Nome</h1>
+
+
+<div class="text-lg-right">
+    <button type="submit" class="btn btn-primary float-lg-right mb-1" onclick="window.open('@Url.Action("Novo", "Pedidos", new { clienteId = cliente.Id  })', '_SELF')" >Novo Pedido</button>
+</div>
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Status</th>
+            <th scope="col">Editar</th>
+            <th scope="col">Excluir</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Pedido in ListaPedidos)
+        {
+        <tr>
+            <th scope="row">@Pedido.Id</th>
+            <td>@Pedido.CodigoRastreio</td>
+            <td>@ViewBag.StatusObjetos[Pedido.CodigoRastreio]</td>
+            <td><a href="@Url.Action("Editar", "Pedidos", new { pedidoId = Pedido.Id, clienteId = cliente.Id  } )">Editar</a></td>
+            <td><a href="@Url.Action("Excluir", "Pedidos", new { pedidoId = Pedido.Id, clienteId = cliente.Id  } )">Excluir</a></td>
+        </tr>
+        }
+    </tbody>
+</table>

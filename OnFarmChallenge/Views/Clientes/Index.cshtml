@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Clientes";
+}
+
+<h1 class="display-4">@ViewData["Title"]</h1>
+
+
+<div class="text-lg-right">
+    <button type="submit" class="btn btn-primary float-lg-right mb-1" onclick="window.open('@Url.Action("Novo", "Clientes")', '_SELF')" >Novo Cliente</button>
+</div>
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Pedidos</th>
+            <th scope="col">Editar</th>
+            <th scope="col">Excluir</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Cliente in ViewBag.Clientes)
+        {
+        <tr>
+            <th scope="row">@Cliente.Id</th>
+            <td>@Cliente.Nome</td>
+            <td><a href="@Url.Action("", "Pedidos", new { clienteId = Cliente.Id  } )">Ver Pedidos</a></td>
+            <td><a href="@Url.Action("Editar", "Clientes", new { clienteId = Cliente.Id  } )">Editar</a></td>
+            <td><a href="@Url.Action("Excluir", "Clientes", new { clienteId = Cliente.Id  } )" >Excluir</a></td>
+        </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Editar Pedido";
+    Pedido pedido = ViewBag.Pedido;
+    
+}
+
+<h1 class="display-4">@ViewData["Title"]</h1>
+
+<form method="post" action="@Url.Action("Atualizar","Pedidos")">
+
+    <div class="form-group">
+        <label for="exampleInputEmail1">Código de Rastreio</label>
+        <input type="text" class="form-control" id="Rastreio" name="Rastreio" value="@pedido.CodigoRastreio">
+        <input type="hidden" id="PedidoID" name="PedidoID" value="@pedido.Id" />
+        <input type="hidden" id="ClienteID" name="ClienteID" value="@pedido.ClienteId" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Salvar</button>
+
+</form>

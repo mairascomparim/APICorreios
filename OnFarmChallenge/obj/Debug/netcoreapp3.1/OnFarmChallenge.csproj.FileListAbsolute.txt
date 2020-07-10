@@ -1,0 +1,178 @@
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.exe
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.deps.json
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.runtimeconfig.json
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.runtimeconfig.dev.json
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.pdb
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.Views.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.Views.pdb
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.csprojAssemblyReference.cache
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.AssemblyInfoInputs.cache
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.AssemblyInfo.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.RazorAssemblyInfo.cache
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.RazorAssemblyInfo.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.TagHelpers.input.cache
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.TagHelpers.output.cache
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.RazorCoreGenerate.cache
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.RazorTargetAssemblyInfo.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.Views.pdb
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\staticwebassets\OnFarmChallenge.StaticWebAssets.Manifest.cache
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\staticwebassets\OnFarmChallenge.StaticWebAssets.xml
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.pdb
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.genruntimeconfig.cache
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.csproj.CopyComplete
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Index.cshtml.g.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Privacy.cshtml.g.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Novo.cshtml.g.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.Properties.Resources.resources
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.csproj.GenerateResource.cache
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Editar.cshtml.g.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Pedidos\Index.cshtml.g.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Pedidos\Novo.cshtml.g.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Pedidos\Editar.cshtml.g.cs
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.csproj.CoreCompileInputs.cache
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.Net.Http.WinHttpHandler.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\mdbf4\source\repos\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Connected Services\wsCorreio\ConnectedService.json
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Connected Services\wsCorreio\ConnectedService.json
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.exe
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.deps.json
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.runtimeconfig.json
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.runtimeconfig.dev.json
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.pdb
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.Views.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\OnFarmChallenge.Views.pdb
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.Net.Http.WinHttpHandler.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.csprojAssemblyReference.cache
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.Properties.Resources.resources
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.csproj.GenerateResource.cache
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.AssemblyInfoInputs.cache
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.AssemblyInfo.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.csproj.CoreCompileInputs.cache
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.RazorAssemblyInfo.cache
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.RazorAssemblyInfo.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.TagHelpers.input.cache
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.TagHelpers.output.cache
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.RazorCoreGenerate.cache
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Editar.cshtml.g.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Index.cshtml.g.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Novo.cshtml.g.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Privacy.cshtml.g.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Pedidos\Editar.cshtml.g.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Pedidos\Index.cshtml.g.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Pedidos\Novo.cshtml.g.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.RazorTargetAssemblyInfo.cs
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.Views.pdb
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.csproj.CopyComplete
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\staticwebassets\OnFarmChallenge.StaticWebAssets.Manifest.cache
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\staticwebassets\OnFarmChallenge.StaticWebAssets.xml
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.dll
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.pdb
+C:\Users\maira\OneDrive\Área de Trabalho\OnFarmChallenge\OnFarmChallenge\obj\Debug\netcoreapp3.1\OnFarmChallenge.genruntimeconfig.cache
